@@ -1,0 +1,6 @@
+## Interface: 60000
+## Title: NeonChat 3.2
+## Notes: Colors the border of chat depending where you are planning to write. Never write nasty secrets to wrong chat again!
+## Author: Mikma
+## SavedVariables: NeonChatDB
+NeonChat.lua

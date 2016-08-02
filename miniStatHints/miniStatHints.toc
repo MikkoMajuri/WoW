@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: mikma's nifty StatHints
+## Notes: Importance order of Character specific Stats marked in CharacterFrame
+## Author: Mikma
+## Version: 1
+
+miniStatHints.lua

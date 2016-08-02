@@ -1,0 +1,19 @@
+## Interface: 60000
+## Title: Duh
+## Notes: A simple tool for helping you remember things at selected situations.
+## SavedVariables: DuhDB
+## Author: Mikma
+## Version: 1.13
+## X-Website: http://mikma.reaktio.net/wow
+## X-Email: mikko.majuri@gmail.com
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+libs\AceDB-3.0\AceDB-3.0.xml
+
+libs\tekKonfig\tekKonfigHeading.lua
+libs\tekKonfig\tekKonfigScroll.lua
+
+Duh.lua

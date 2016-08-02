@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: mikma
+## Notes: Just the way I like my WoW
+## Author: mikma
+## SavedVariablesPerCharacter: mikmaDB
+
+mikma.lua

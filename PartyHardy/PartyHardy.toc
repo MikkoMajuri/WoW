@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: PartyHardy
+## Notes: Party with closest friends!
+## Author: Mikma
+## SavedVariablesPerCharacter: PartyHardyDB
+
+PartyHardy.lua

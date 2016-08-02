@@ -1,0 +1,10 @@
+## Interface: 60000
+## Author: Mikma
+## Title: PartyHardyMF
+## Notes: Creates a MessageFrame for PartyHardy experience announces
+## Dependencies: PartyHardy
+## Version: 1
+
+Libs\LibStub.lua
+Libs\LibMessageFrame-1.0.lua
+PartyHardyMF.lua

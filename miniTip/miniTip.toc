@@ -1,0 +1,10 @@
+## Interface: 60000
+## Title: mikma's nifty Tooltip
+## Notes: Minor modifications in the GameTooltip
+## Author: Mikma
+## Version: 3
+## X-Website: http://mikma.reaktio.net/wow
+## X-Email: mikko.majuri@gmail.com
+
+## SavedVariablesPerCharacter: miniTipDB
+miniTip.lua

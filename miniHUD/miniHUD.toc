@@ -1,0 +1,10 @@
+## Interface: 60000
+## Title: mikma's nifty HUD
+## Notes: Small HUD suitable for buttonsmashers
+## Author: Mikma
+## Version: 4
+## X-Website: http://mikma.reaktio.net/wow
+## X-Email: mikko.majuri@gmail.com
+
+## SavedVariablesPerCharacter: miniHUDDB
+miniHUD.lua
